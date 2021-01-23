@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This script it a parsing tool for [Yara Scan Service](https://riskmitigation.ch/yara-scan/)'s JSON output file. Yara Scan Service allows to quickly test your [YARA](https://yara.readthedocs.io/en/v3.4.0/index.html) rule against a large collection of malicious samples. It helps assure your rule only matches the malware family you are looking for. The output is a JSON file containing all the matched samples. The JSON file contains a lot of information, and yaraScanParser is meant to help you maximize its benefits.
+This script is a parsing tool for [Yara Scan Service](https://riskmitigation.ch/yara-scan/)'s JSON output file. Yara Scan Service allows to quickly test your [YARA](https://yara.readthedocs.io/en/v3.4.0/index.html) rule against a large collection of malicious samples. It helps assure your rule only matches the malware family you are looking for. The output is a JSON file containing all the matched samples. The JSON file contains a lot of information, and yaraScanParser is meant to help you maximize its benefits.
 
 yaraScanParser allows you to:
 * Save time by parsing the Yara Scan Service results automatically
