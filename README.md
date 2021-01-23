@@ -78,7 +78,7 @@ Clone the repo
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 * Parameters -o and -m are OPTIONAL
 
@@ -110,4 +110,4 @@ Project Link: [https://github.com/Sh3llyR/yaraScanParser](https://github.com/Sh3
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shelly-raban-6baa2b1b9/
 [product-screenshot]: Images/help.png
-[product-banner]: cli_banner.txt
+[product-banner]: /cli_banner.txt
