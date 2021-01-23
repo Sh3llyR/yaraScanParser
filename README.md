@@ -44,8 +44,8 @@ This script it a parsing tool for [Yara Scan Service](https://riskmitigation.ch/
 
 yaraScanParser allows you to:
 * Save time by parsing the Yara Scan Service results automatically
-* Get the number of wanted matches and false positives of your rule
-* Get the information you need in order to easily insert the matched files' hash values to your Yara rule's metadata section
+* Get information about wanted matches and false positives of your rule
+* Get the matched files' hash values in a format the can be easily inserted to your Yara rule's metadata section
 
 
 
