@@ -14,13 +14,7 @@
 
 
 <!-- PROJECT LOGO -->
-                       ____                  ____                          
- _   _  __ _ _ __ __ _/ ___|  ___ __ _ _ __ |  _ \ __ _ _ __ ___  ___ _ __ 
-| | | |/ _` | '__/ _` \___ \ / __/ _` | '_ \| |_) / _` | '__/ __|/ _ \ '__|
-| |_| | (_| | | | (_| |___) | (_| (_| | | | |  __/ (_| | |  \__ \  __/ |   
- \__, |\__,_|_|  \__,_|____/ \___\__,_|_| |_|_|   \__,_|_|  |___/\___|_|   
- |___/                                                                     
-
+[![Product Name Banner][product-banner]]
 
 
 
@@ -84,7 +78,7 @@ Clone the repo
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-[product-screenshot]
+[![Product Name Screen Shot][product-screenshot]]
 
 Usage:
 python yaraScanParser.py -i <JSON_file> -o <output_file> -m <malware_name>
@@ -118,3 +112,4 @@ Project Link: [https://github.com/Sh3llyR/yaraScanParser](https://github.com/Sh3
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shelly-raban-6baa2b1b9/
 [product-screenshot]: Images/help.png
+[product-banner]: ascii_banner.txt
