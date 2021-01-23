@@ -9,7 +9,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -86,7 +85,7 @@ Examples:
 <!-- CONTACT -->
 ## Contact
 
-[Shelly Raban](https://www.linkedin.com/in/shelly-raban-6baa2b1b9/) - shelly.raban@gmail.com
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project Link: [https://github.com/Sh3llyR/yaraScanParser](https://github.com/Sh3llyR/yaraScanParser)
 
