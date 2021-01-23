@@ -78,7 +78,7 @@ Clone the repo
 * When -o parameter is omitted, the output file is saved in the script's directory
 * When -m parameter is omitted, the value of the first 'malware' key in the JSON file is used
 
-Examples:
+Usage examples:
 * python yaraScanParser.py -i yara_scan_service_results.json -o output.txt -m CobaltStrike
 * python3 yaraScanParser.py -i yara_scan_service_results.json
 
