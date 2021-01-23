@@ -82,11 +82,11 @@ Clone the repo
 
 Usage:
 python yaraScanParser.py -i <JSON_file> -o <output_file> -m <malware_name>
-* -o and -m are OPTIONAL
+* Parameters -o and -m are OPTIONAL
 
 Examples:
-python yaraScanParser.py -i yara_scan_service_results.json -o output.txt -m CobaltStrike
-python3 yaraScanParser.py -i yara_scan_service_results.json
+* python yaraScanParser.py -i yara_scan_service_results.json -o output.txt -m CobaltStrike
+* python3 yaraScanParser.py -i yara_scan_service_results.json
 
 
 
@@ -112,4 +112,4 @@ Project Link: [https://github.com/Sh3llyR/yaraScanParser](https://github.com/Sh3
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shelly-raban-6baa2b1b9/
 [product-screenshot]: Images/help.png
-[product-banner]: ascii_banner.txt
+[product-banner]: /ascii_banner.txt
