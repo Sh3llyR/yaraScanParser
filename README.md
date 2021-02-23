@@ -80,6 +80,7 @@ Clone the repo
 
 Usage examples:
 * python yaraScanParser.py -i yara_scan_service_results.json -o output.txt -m CobaltStrike
+* * python yaraScanParser.py -i yara_scan_service_results.json -o output.txt -m CobaltStrike,DarkComet,QuasarRAT
 * python3 yaraScanParser.py -i yara_scan_service_results.json
 
 
