@@ -105,4 +105,4 @@ Project Link: [https://github.com/Sh3llyR/yaraScanParser](https://github.com/Sh3
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shelly-raban-6baa2b1b9/
-[product-screenshot]: Images/help.png
+[product-screenshot]: Images/updated_help.png
