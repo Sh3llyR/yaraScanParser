@@ -98,6 +98,7 @@ def find_malware_occurrences(malware_names, data, output_file):
         for i,sample in enumerate(data):
             temp_malware_name = sample['malware']
             temp_malware_name = temp_malware_name.replace('.','_')
+            temp_malware_name = temp_malware_name.replace(' ','_')
             if temp_malware_name in malware_names:
                 mal_dict[temp_malware_name] += 1
                 o.write("hash_{}_{} = \"{}\"\n".format(str(i+1),temp_malware_name,sample['sha256']))
