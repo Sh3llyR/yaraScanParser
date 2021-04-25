@@ -105,7 +105,7 @@ def find_malware_occurrences(malware_names, data, output_file):
                 if temp_malware_name not in false_list:
                     false_list.append(temp_malware_name)
                 with open(false_file,'a') as f:
-                    f.write("{} - {}\n".format(temp_malware_name,sample['sha256']))
+                    f.write("hash{} = \"{}\" \\\\ {}\n".format(str(i+1),sample['sha256'],temp_malware_name))
  
     print("""
     Results:
